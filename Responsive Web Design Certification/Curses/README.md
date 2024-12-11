@@ -8,8 +8,16 @@ Learning path:
 
 FIRST SECTION(1/5):
 
- 1. Learning HTML by building a cat photo app
- 2. Learning CSS by building a cafe menu
- 3. Learning CSS by building a set of colored markers
- 4. Learning HTML Form by building a Registration Form
- 5. FIRST CERTIFICATION PROJECT (1/5) by building a Survey Form
+ 1. Learning HTML by building a cat photo app.
+ 2. Learning CSS by building a cafe menu.
+ 3. Learning CSS by building a set of colored markers.
+ 4. Learning HTML Form by building a Registration Form•
+ 5. FIRST CERTIFICATION PROJECT (1/5) by building a Survey Form.
+
+SECOND SECTION(2/5):
+
+ 1. Learn the CSS BOX model by building a Rothko painting.
+ 2. Learn CSS Flexbox by building a photo gallery.
+ 3. Learn Typography by building a Nutrition Label.
+ 4. Learn accessibility by building a Quiz.
+ 5. SECOND CERTIFICATION PROJECT (2/5) by building a Tribute Page.
