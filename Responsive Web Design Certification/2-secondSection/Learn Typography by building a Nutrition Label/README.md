@@ -1,4 +1,4 @@
-In this project i learned how make a perfect typography project. thanks freeCodeCamp
+In this project i learned how how to style text, adjust line height, and position your text using CSS. thanks freeCodeCamp.
 
 run code:
 
