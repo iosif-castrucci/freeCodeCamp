@@ -2,6 +2,6 @@ this is the last project of first section of "Responsive Web Design Certificatio
 
 run code:
 
-  1. Download "index.html" file and save it in your client.
+  1. Download "certification.html" and styles.css files and save it in your client.
   2. Right click and open with Browser.
   3. enjoy it!
