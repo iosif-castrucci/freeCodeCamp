@@ -2,3 +2,7 @@ In this project i learned basics of Coloring in CSS. It's a very basic project, 
 
 run code:
 
+Download "index.html" and "styles.css" files
+Create a new directory on your client and save your files inside.
+right click on "index.html" and "open with" your current browser's system.
+enjoy it!
