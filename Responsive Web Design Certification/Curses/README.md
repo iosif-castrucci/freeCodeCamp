@@ -6,6 +6,8 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 Learning path:
 
+FIRST SECTION(1/5):
+
  1. Learning HTML by building a cat photo app
  2. Learning CSS by building a cafe menu
  3. Learning CSS by building a set of colored markers
