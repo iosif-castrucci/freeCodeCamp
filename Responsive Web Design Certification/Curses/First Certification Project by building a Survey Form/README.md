@@ -1,4 +1,4 @@
-this is the last project of first section of "Responsive Web Design Certification" called Survey Form, you need to make in total five "cerfification projects" to achive the professional certification of this first section. The task was make a survey form with html, css it was an optional (i decided to make only html file, because the next certification project was about CSS section). thanks freeCodeCamp.org
+this is the last project of first section of "Responsive Web Design Certification" called Survey Form, you need to make in total five "cerfification projects" to achive the professional certification of this first section. The task was make a survey form with html, css it was an optional (i decided to make an EASY css file, because the next certification project was about CSS section). thanks freeCodeCamp.org
 
 run code:
 
