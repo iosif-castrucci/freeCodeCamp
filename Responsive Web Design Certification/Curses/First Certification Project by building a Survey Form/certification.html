@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form id="survey-form" action="https://github.com/iosif-castrucci" method="POST">
+        <fieldset>
+            <label for="name">Insert Your First Name<input type="text" name="name" id="name-label" placeholder="Name" required></label>
+            <label for="email">Insert Your Email<input type="email" name="email" id="email-label" placeholder="Email" required></label>
+            <label for="age">Insert Your Age (minimum 12 years old)<input type="number" name="age" id="age-label" min="12" max="120" placeholder="Age" required></label>
+        </fieldset>
+    
+        <fieldset>
+            <label for="dropdown"><select name="dropdown" id="dropdown">
+                <option value="">Please select an option</option>
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+            </select></label>
+        </fieldset>
+    
+        <fieldset>
+            <legend>Choose one option</legend>
+            <div>
+                <label><input type="radio" name="account-type" id="account-type-1" value="option1" checked> Option 1 </label>
+                <label><input type="radio" name="account-type" id="account-type-2" value="option2"> Option 2 </label>
+            </div>
+        </fieldset>
+    
+        <fieldset>
+            <legend>Check all the values you agree with</legend>
+            <label><input type="checkbox" name="values" id="value-1" value="value1"> Value 1 </label>
+            <label><input type="checkbox" name="values" id="value-2" value="value2"> Value 2 </label>
+            <label><input type="checkbox" name="values" id="value-3" value="value3"> Value 3 </label>
+            <label><input type="checkbox" name="values" id="value-4" value="value4"> Value 4 </label>
+        </fieldset>
+        <label><textarea name="bio" id="bio" placeholder="Insert your bio"></textarea></label>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+</body>
+</html>
